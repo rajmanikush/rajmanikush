@@ -8,3 +8,5 @@ I also likes mentoring people and help them in the field of software development
 - 💬 Ask me about iOS, Swift
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/rajmanikush/) and [Twitter](https://twitter.com/rajmanikush)
 - 📝 Write blogs at [Medium](https://medium.com/@rajmanikush)
+
+![my GitHub stats](https://github-readme-stats.vercel.app/api?username=rajmanikush)
