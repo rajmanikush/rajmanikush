@@ -9,4 +9,9 @@ I also likes mentoring people and help them in the field of software development
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/rajmanikush/) and [Twitter](https://twitter.com/rajmanikush)
 - 📝 Write blogs at [Medium](https://medium.com/@rajmanikush)
 
-![my GitHub stats](https://github-readme-stats.vercel.app/api?username=rajmanikush&count_private=true&show_icons=true&theme=tokyonight)
+<a href="Rajmani's GitHub stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajmanikush&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="Top Languages">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajmanikush&layout=compact" />
+</a>
