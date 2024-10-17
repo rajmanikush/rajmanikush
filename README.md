@@ -1,8 +1,8 @@
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Rajmani Kushwaha, proficient in working with Objective-C, Swift and SwiftUI iOS stack
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Rajmani Kushwaha, proficient in working with Swift, SwiftUI and Objective-C, iOS stack.
 
-I work at [Tokopedia](https://www.tokopedia.com/) as a Senior Software Engineer, experinced in creating products from prototype to release and scaling it for larger userbases.
+I work at [Target](https://www.target.com/) as a Senior Software Engineer. I am experienced in creating products from prototype to release and scaling them for larger user bases.
 
-I also likes mentoring people and help them in the field of software development. I'm a Mentor at Scaler, It's an online tech-versity where I utilize my expertise to mentor people and guide them to succeed!
+I also like mentoring people and helping them in the field of software development. I'm a Mentor at Scaler, an online university where I utilize my expertise to mentor people and guide them to success!
 
 - 🌱 I’m currently learning about Modular architecture and JavaScript
 - 💬 Ask me about iOS, Swift
